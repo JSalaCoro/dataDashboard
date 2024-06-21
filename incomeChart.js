@@ -10,9 +10,6 @@ fetch('landings_byPort_2023.json')
 })
 
 .then(function(data){
-    console.log(data)
-    console.log(typeof(data))
-    console.log(data.landings.map(row => row.PortName))
     createIncomeChart(data, 'bar');
 })
 
