@@ -1,2 +1,1 @@
-Dashboard for landings data: 
- https://jsalacoro.github.io/dataDashboard/
+jsalacoro.github.io/dataDashboard/
