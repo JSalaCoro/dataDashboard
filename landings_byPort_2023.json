@@ -1,0 +1,104 @@
+{
+"landings": [
+  {
+    "PortName": "ARENYS DE MAR",
+    "Kg": 918597.145,
+    "Eu": 5231004.408
+  },
+  {
+    "PortName": "BADALONA",
+    "Kg": 9281.97,
+    "Eu": 122906.146
+  },
+  {
+    "PortName": "BARCELONA",
+    "Kg": 1543858.81,
+    "Eu": 6253611.035
+  },
+  {
+    "PortName": "BLANES",
+    "Kg": 1644831.69,
+    "Eu": 8354817.9
+  },
+  {
+    "PortName": "CAMBRILS",
+    "Kg": 921252.32,
+    "Eu": 3504073.713
+  },
+  {
+    "PortName": "DELTEBRE",
+    "Kg": 367689.958,
+    "Eu": 2494275.569
+  },
+  {
+    "PortName": "L'AMETLLA DE MAR",
+    "Kg": 1009710.11,
+    "Eu": 6128714.698
+  },
+  {
+    "PortName": "L'AMPOLLA",
+    "Kg": 196803.95,
+    "Eu": 1274016.325
+  },
+  {
+    "PortName": "LA RÀPITA",
+    "Kg": 2167787.23,
+    "Eu": 12290286.453
+  },
+  {
+    "PortName": "L'ESCALA",
+    "Kg": 997002.53,
+    "Eu": 1714193.582
+  },
+  {
+    "PortName": "LES CASES D'ALCANAR",
+    "Kg": 176790.2,
+    "Eu": 1025934.559
+  },
+  {
+    "PortName": "L'ESTARTIT",
+    "Kg": 2872.39,
+    "Eu": 52729.03
+  },
+  {
+    "PortName": "LLANÇÀ",
+    "Kg": 463844.61,
+    "Eu": 4616642.457
+  },
+  {
+    "PortName": "PALAMÓS",
+    "Kg": 1214563.649,
+    "Eu": 9499539.679
+  },
+  {
+    "PortName": "PORT DE LA SELVA",
+    "Kg": 11035.48,
+    "Eu": 105409.98
+  },
+  {
+    "PortName": "ROSES",
+    "Kg": 733226.7,
+    "Eu": 6668381.085
+  },
+  {
+    "PortName": "SANT FELIU DE GUÍXOLS",
+    "Kg": 681661.362,
+    "Eu": 1974643.29
+  },
+  {
+    "PortName": "TARRAGONA",
+    "Kg": 1795776.87,
+    "Eu": 9127285.042
+  },
+  {
+    "PortName": "TORREDEMBARRA",
+    "Kg": 33144.4,
+    "Eu": 261792.561
+  },
+  {
+    "PortName": "VILANOVA I LA GELTRÚ",
+    "Kg": 1669949.83,
+    "Eu": 8504833.079
+  }
+]
+}
